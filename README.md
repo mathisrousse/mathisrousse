@@ -17,5 +17,4 @@ Je m'intéresse au pentest web, aux CTF, à l'analyse de risques et à l'IA appl
 - **[Write-ups](lien)** : CTF et machines retirées
 
 ## 📫 Me contacter
-- LinkedIn : [lien]
-- Mail : [ton adresse]
+- [LinkedIn](https://www.linkedin.com/in/mathis-rousse/)
