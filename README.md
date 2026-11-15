@@ -4,8 +4,7 @@ English below
 
 Élève-ingénieur en cybersécurité à **IMT Atlantique** Rennes, je rêve de devenir Hacker éthique et de pouvoir vivre de ma passion.
 
-
-🔎 **Je cherche un stage de 4 mois à partir d'avril 2027.**
+Ayant commencé par apprendre sur TryHackMe, PortSwigger Academy et OverTheWire, je suis désormais des cours quotidien sur HackTheBox pour avoir accès a des cours approfondi en Active Directory, et peut être bientôt passer l'OSCP 
 
 ## 🏅 Certifications
 **- BSCP (Burp Suite Certified Practitioner)**
