@@ -4,7 +4,7 @@ Cybersecurity engineering student at **IMT Atlantique** (Rennes, France), I drea
 
 I started on TryHackMe, OverTheWire and PortSwigger Academy, which led me to the **BSCP** web certification. I keep learning daily on HackTheBox, notably on Active Directory and cloud, and I'm considering taking the OSCP. I enjoy building my own red team tools, tailoring them to my needs and understanding attack processes in depth.
 
-## 🛠️ Projects
+## 🛠️ Tools & Projects
 
 - **[recon-pipeline](https://github.com/mathisrousse/recon-pipeline/)**: Bash pipeline that automates the asset discovery phase of a bug bounty engagement: passive subdomain enumeration, DNS wildcard filtering, HTTP probing, and screenshots stored in SQLite.
 
