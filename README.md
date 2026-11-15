@@ -1,6 +1,6 @@
 # Hi, I'm Mathis "DaMagicTrick" Roussé 👋
 
-Cybersecurity engineering student at **IMT Atlantique** (Rennes), I dream of becoming an ethical hacker and making a living from my passion.
+Cybersecurity engineering student at **IMT Atlantique** (Rennes, France), I dream of becoming an ethical hacker and making a living from my passion.
 
 I started on TryHackMe, OverTheWire and PortSwigger Academy, which led me to the **BSCP** web certification. I keep learning daily on HackTheBox, notably on Active Directory and cloud, and I'm considering taking the OSCP. I enjoy building my own red team tools, tailoring them to my needs and understanding attack processes in depth.
 
