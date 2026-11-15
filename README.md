@@ -4,7 +4,7 @@ English below
 
 Élève-ingénieur en cybersécurité à **IMT Atlantique** Rennes, je rêve de devenir Hacker éthique et de pouvoir vivre de ma passion.
 
-Ayant commencé par apprendre sur TryHackMe, PortSwigger Academy et OverTheWire, je suis désormais des cours quotidien sur HackTheBox pour avoir accès a des cours approfondi en Active Directory, et peut être bientôt passer l'OSCP 
+J'ai débuté sur TryHackMe, OverTheWire et PortSwigger Academy, ce qui m'a conduit à la certification web **BSCP** (Burp Suite Certified Practitioner). Je continue d'apprendre quotidiennement sur HackTheBox désormais, notamment sur de l'AD, et j'envisage de passer l'OSCP.
 
 ## 🏅 Certifications
 **- BSCP (Burp Suite Certified Practitioner)**
