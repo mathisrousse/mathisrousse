@@ -18,7 +18,7 @@ J'ai débuté sur TryHackMe, OverTheWire et PortSwigger Academy, ce qui m'a cond
 
 ## 🛠️ Projets
 
-
+- **[recon_pipeline](https://github.com/mathisrousse/recon-pipeline/)** : Bash pipeline that automates the asset discovery phase of a bug bounty engagement: passive subdomain enumeration, DNS wildcard filtering, HTTP probing, and screenshots stored in SQLite.
 
 ## 📫 Me contacter
 
