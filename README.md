@@ -4,9 +4,10 @@ English below
 
 Élève-ingénieur en cybersécurité à **IMT Atlantique** Rennes, je rêve de devenir Hacker éthique et de pouvoir vivre de ma passion.
 
-J'ai débuté sur TryHackMe, OverTheWire et PortSwigger Academy, ce qui m'a conduit à la certification web **BSCP** (Burp Suite Certified Practitioner). Je continue d'apprendre quotidiennement sur HackTheBox désormais, notamment sur de l'AD, et j'envisage de passer l'OSCP.
+J'ai débuté sur TryHackMe, OverTheWire et PortSwigger Academy, ce qui m'a conduit à la certification web **BSCP**. Je continue d'apprendre quotidiennement sur HackTheBox, notamment sur de l'AD et le cloud, et j'envisage de passer l'OSCP.
 
 ## 🏅 Certifications
+
 **- BSCP (Burp Suite Certified Practitioner)**
 
 "The Burp Suite Certified Practitioner (BSCP) is an official certification for web security professionals, from the makers of Burp Suite. Becoming a Burp Suite Certified Practitioner demonstrates a deep knowledge of web security vulnerabilities, the correct mindset to exploit them, and of course, the Burp Suite skills needed to carry this out."
