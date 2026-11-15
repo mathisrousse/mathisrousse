@@ -1,10 +1,12 @@
-English below 
-
 # Salut, je suis Mathis "DaMagicTrick" Roussé 👋
 
 Élève-ingénieur en cybersécurité à **IMT Atlantique** Rennes, je rêve de devenir Hacker éthique et de pouvoir vivre de ma passion.
 
-J'ai débuté sur TryHackMe, OverTheWire et PortSwigger Academy, ce qui m'a conduit à la certification web **BSCP**. Je continue d'apprendre quotidiennement sur HackTheBox, notamment sur de l'AD et le cloud, et j'envisage de passer l'OSCP.
+J'ai débuté sur TryHackMe, OverTheWire et PortSwigger Academy, ce qui m'a conduit à la certification web **BSCP**. Je continue d'apprendre quotidiennement sur HackTheBox, notamment sur de l'AD et le cloud, et j'envisage de passer l'OSCP. J'aime créer mes propres outils red team pour les adapter à mes besoins et comprendre en profondeur les processus d'attaques.
+
+## 🛠️ Projets
+
+- **[recon_pipeline](https://github.com/mathisrousse/recon-pipeline/)** : Bash pipeline that automates the asset discovery phase of a bug bounty engagement: passive subdomain enumeration, DNS wildcard filtering, HTTP probing, and screenshots stored in SQLite.
 
 ## 🏅 Certifications
 
@@ -16,9 +18,6 @@ J'ai débuté sur TryHackMe, OverTheWire et PortSwigger Academy, ce qui m'a cond
 
 **- TOEIC 900/990**
 
-## 🛠️ Projets
-
-- **[recon_pipeline](https://github.com/mathisrousse/recon-pipeline/)** : Bash pipeline that automates the asset discovery phase of a bug bounty engagement: passive subdomain enumeration, DNS wildcard filtering, HTTP probing, and screenshots stored in SQLite.
 
 ## 📫 Me contacter
 
