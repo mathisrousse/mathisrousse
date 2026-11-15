@@ -1,16 +1,21 @@
-## Hi there 👋
+English below 
 
-<!--
-**mathisrousse/mathisrousse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Salut, je suis Mathis 👋
 
-Here are some ideas to get you started:
+Élève-ingénieur en cybersécurité à **IMT Atlantique** (Rennes).
+Je m'intéresse au pentest web, aux CTF, à l'analyse de risques et à l'IA appliquée à la détection d'incidents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 **Je cherche un stage de 4 mois à partir d'avril 2027.**
+
+## 🏅 Certifications
+- BSCP (Burp Suite Certified Practitioner)
+- TOEIC 900/990
+
+## 🛠️ Projets
+- **[Nom du projet 1](lien)** : une phrase sur ce que ça fait
+- **[Nom du projet 2](lien)** : une phrase sur ce que ça fait
+- **[Write-ups](lien)** : CTF et machines retirées
+
+## 📫 Me contacter
+- LinkedIn : [lien]
+- Mail : [ton adresse]
