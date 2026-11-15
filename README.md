@@ -1,9 +1,9 @@
 English below 
 
-# Salut, je suis Mathis 👋
+# Salut, je suis Mathis "DaMagicTrick" Roussé 👋
 
-Élève-ingénieur en cybersécurité à **IMT Atlantique** (Rennes).
-Je m'intéresse au pentest web, aux CTF, à l'analyse de risques et à l'IA appliquée à la détection d'incidents.
+Élève-ingénieur en cybersécurité à **IMT Atlantique** Rennes, je rêve de devenir Hacker éthique et de pouvoir vivre de ma passion.
+
 
 🔎 **Je cherche un stage de 4 mois à partir d'avril 2027.**
 
