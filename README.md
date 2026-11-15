@@ -8,8 +8,13 @@ English below
 🔎 **Je cherche un stage de 4 mois à partir d'avril 2027.**
 
 ## 🏅 Certifications
-- BSCP (Burp Suite Certified Practitioner)
-- TOEIC 900/990
+**- BSCP (Burp Suite Certified Practitioner)**
+
+"The Burp Suite Certified Practitioner (BSCP) is an official certification for web security professionals, from the makers of Burp Suite. Becoming a Burp Suite Certified Practitioner demonstrates a deep knowledge of web security vulnerabilities, the correct mindset to exploit them, and of course, the Burp Suite skills needed to carry this out."
+[source](https://portswigger.net/web-security/certification)
+
+
+**- TOEIC 900/990**
 
 ## 🛠️ Projets
 
