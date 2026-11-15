@@ -17,4 +17,4 @@ English below
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathis%20Rouss%C3%A9-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ton-profil/](https://www.linkedin.com/in/mathis-rousse/))
+[![LinkedIn](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail)](https://www.linkedin.com/in/mathis-rousse/)
