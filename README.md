@@ -7,6 +7,7 @@ I started on TryHackMe, OverTheWire and PortSwigger Academy, which led me to the
 ## 🛠️ Tools & Projects
 
 - **[recon-pipeline](https://github.com/mathisrousse/recon-pipeline/)**: Bash pipeline that automates the asset discovery phase of a bug bounty engagement: passive subdomain enumeration, DNS wildcard filtering, HTTP probing, and screenshots stored in SQLite.
+- **[bruteforce_xmlrpc.sh](https://github.com/mathisrousse/hacking-wordpress/blob/main/README.md)**: Bash script that brute-forces a WordPress account through the xmlrpc.php endpoint, using the wp.getUsersBlogs method. It is a manual alternative to wpscan --password-attack xmlrpc.
 
 ## 🚩 CTF & Training Platforms
 
